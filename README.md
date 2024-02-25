@@ -1,6 +1,9 @@
 # MarketX
 An application to explore financial markets and investment opportunities. 
 
+### Minimun Viable Product
+The MVP of this project is to create a bot that can detect investment opportunities taking into account different variables.
+
 ## Architecture diagram  
 ![Diagram](https://github.com/MarioCSan/MarketX/assets/40211718/673aa2d8-e453-4585-ac82-61112cb28013)
 
